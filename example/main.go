@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"time"
 
-  alilog "codehub-cn-east-2.devcloud.huaweicloud.com/jgz00001/alilog.git"
+  alilog "codehub-cn-east-2.devcloud.huaweicloud.com/jgz00001/yb7_alilog.git"
 )
 
 func main() {

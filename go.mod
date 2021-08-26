@@ -1,4 +1,4 @@
-module codehub-cn-east-2.devcloud.huaweicloud.com/jgz00001/alilog.git
+module codehub-cn-east-2.devcloud.huaweicloud.com/jgz00001/yb7_alilog.git
 
 go 1.15
 
