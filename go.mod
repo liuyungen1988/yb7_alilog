@@ -1,9 +1,9 @@
-module codehub-cn-east-2.devcloud.huaweicloud.com/jgz00001/yb7_alilog.git
+module github.com/liuyungen1988/yb7_alilog
 
 go 1.15
 
 require (
-	codehub-cn-east-2.devcloud.huaweicloud.com/jgz00001/cls-skywalking-client-go.git v0.1.9-snapshot65
+	github.com/liuyungen1988/cls-skywalking-client-go v0.1.9-snapshot71
 	github.com/aliyun/aliyun-log-go-sdk v0.0.0-20190318022014-9e3ed04b5584
 	github.com/cenkalti/backoff v2.1.1+incompatible // indirect
 	github.com/cloudflare/golz4 v0.0.0-20150217214814-ef862a3cdc58 // indirect

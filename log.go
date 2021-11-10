@@ -11,8 +11,8 @@ import (
   "sync"
   "time"
 
-  cls_skywalking_client_go "codehub-cn-east-2.devcloud.huaweicloud.com/jgz00001/cls-skywalking-client-go.git"
   sls "github.com/aliyun/aliyun-log-go-sdk"
+  cls_skywalking_client_go "github.com/liuyungen1988/cls-skywalking-client-go"
 )
 
 type SLog struct {
